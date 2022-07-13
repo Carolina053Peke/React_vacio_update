@@ -1,0 +1,63 @@
+.Form {
+    margin: 20px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.nombre {
+
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+.apellido {
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+.mail {
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+.texto {
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+.boton {
+    background-color: #F9BBC8;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+.boton:hover {
+    background-color: #68D8EE;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.comentario1{
+    border: 2px solid black; 
+    border-radius: 8px;
+    padding: 12px 28px;
+    background-color: #F9BBC8;
+}
+
+.comentario2{
+    border: 2px solid black; 
+    border-radius: 8px;
+    padding: 12px 28px;
+    background-color: #F9BBC8;
+}
+
+.comentario3{
+    border: 2px solid black; 
+    border-radius: 8px;
+    padding: 12px 28px;
+    background-color: #F9BBC8;
+}
